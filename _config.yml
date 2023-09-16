@@ -25,7 +25,7 @@ author: The Counter Cult
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: ''
+url: 'https://countercult.github.io/'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
