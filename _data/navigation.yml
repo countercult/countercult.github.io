@@ -2,13 +2,20 @@
   url: "/"
   side: left
 
-- title: About us
+- title: About
   url: "/about/"
   side: left
 
-- title: People
-  url: "/people/"
+- title: "AI in the woods"
+  url: "/aiinthewoods/"
   side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
 
 - title: "Contact"
   url: "/contact/"

@@ -1,0 +1,6 @@
+bundle install
+bundle exec jekyll serve
+
+# Filling in the site
+
+The widgets on the front page are defined here: pages/pages-root-folder/index.md
