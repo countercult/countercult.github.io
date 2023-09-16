@@ -1,0 +1,15 @@
+- title: Start
+  url: "/"
+  side: left
+
+- title: About us
+  url: "/about/"
+  side: left
+
+- title: People
+  url: "/people/"
+  side: left
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
