@@ -1,7 +1,7 @@
-#- name: GitHub
-#  url: http://github.com/phlow
-#  class: icon-github
-#  title: Code und mehr...
+- name: GitHub
+  url: http://github.com/countercult
+  class: icon-github
+  title: The Counter Cult on Github
 
 #- name: YouTube
 #  url: https://www.youtube.com/PhlowMedia
@@ -13,15 +13,15 @@
 #  class: icon-twitter
 #  title: "Research: Computational Approaches to Language and Meaning (CALM)"
 
-- name: Vimeo
-  url: https://vimeo.com/user38873733
-  class: icon-vimeo
-  title: "AI in the Woods on Vimeo -- all the videos."
+#- name: Vimeo
+#  url: https://vimeo.com/user38873733
+#  class: icon-vimeo
+#  title: "AI in the Woods on Vimeo -- all the videos."
 
-- name: Instagram
-  url: https://instagram.com/aiinthewoods/
-  class: icon-instagram
-  title: "AI in the Woods on Instagram -- video previews."
+#- name: Instagram
+#  url: https://instagram.com/aiinthewoods/
+#  class: icon-instagram
+#  title: "AI in the Woods on Instagram -- video previews."
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
