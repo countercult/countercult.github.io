@@ -10,6 +10,10 @@
   url: "/people/"
   side: left
 
+- title: Events
+  url: "/events/"
+  side: left
+
 - title: "Contact"
   url: "/contact/"
   side: right
