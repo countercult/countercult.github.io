@@ -9,6 +9,9 @@ header:
 * **[Tech workers conference in Berlin with Verdi](https://bb.verdi.de/themen/++co++56347bde-6bfb-11ee-867b-001a4a160110) (13.10.2023)**<br>
 Amira gave a presentation at the second tech workers conference in Berlin. They spoke about the history of the tech industry and climate change, in particular the climate impact of Large Language Models.
 
+* **[Learning with Small Data conference in Gotheburg](https://sites.google.com/view/learning-with-small-data/home) (11-12.09.2023)**<br>
+
+
 * **[Data Ownership: Concepts | Analysis | Critique](https://www.cdh.cam.ac.uk/events/36684/) (04.07.2023)**<br>
 Amira organised, in collaboration with researchers at different universities in Germany, a workshop questioning the economic status of data in the current data economy. The workshop was supported by [Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/).
 
